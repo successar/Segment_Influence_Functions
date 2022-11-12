@@ -22,12 +22,4 @@ __pycache__
 conll_outputs
 exp.ipynb
 
-entity-switched-ner
-neckar/*
-!neckar/Process.ipynb
-
-.job
-OntoNotes-5.0*
-rxnorm
-Identifying*
-extras
+extras/neckar/wikidata.entities
