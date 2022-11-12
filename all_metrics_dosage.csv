@@ -1,0 +1,281 @@
+type,metric,value,seed,model
+O,precision,0.6165336080350244,2021,simple
+POP,precision,0.8753253796095445,2021,simple
+INT,precision,0.823927392739274,2021,simple
+OUT,precision,0.8101189276355574,2021,simple
+accuracy,precision,0.8436582728255831,2021,simple
+macro avg,precision,0.78147632700485,2021,simple
+weighted avg,precision,0.8435574128408525,2021,simple
+O,recall,0.6719056974459725,2021,simple
+POP,recall,0.9114059853190288,2021,simple
+INT,recall,0.6171817058096415,2021,simple
+OUT,recall,0.8531097431543196,2021,simple
+accuracy,recall,0.8436582728255831,2021,simple
+macro avg,recall,0.7634007829322407,2021,simple
+weighted avg,recall,0.8436582728255831,2021,simple
+O,f1-score,0.6430298146655923,2021,simple
+POP,f1-score,0.8930013831258645,2021,simple
+INT,f1-score,0.7057243816254417,2021,simple
+OUT,f1-score,0.8310587262200165,2021,simple
+accuracy,f1-score,0.8436582728255831,2021,simple
+macro avg,f1-score,0.7682035764092289,2021,simple
+weighted avg,f1-score,0.8409093953063483,2021,simple
+O,support,3563.0,2021,simple
+POP,support,35420.0,2021,simple
+INT,support,8090.0,2021,simple
+OUT,support,4711.0,2021,simple
+accuracy,support,0.8436582728255831,2021,simple
+macro avg,support,51784.0,2021,simple
+weighted avg,support,51784.0,2021,simple
+O,precision,0.6420675231550642,2022,simple
+POP,precision,0.8621407856577906,2022,simple
+INT,precision,0.8263175339741465,2022,simple
+OUT,precision,0.8314330427006483,2022,simple
+accuracy,precision,0.8410899119419125,2022,simple
+macro avg,precision,0.7904897213719124,2022,simple
+weighted avg,precision,0.8386085108723551,2022,simple
+O,recall,0.6031434184675835,2022,simple
+POP,recall,0.9232354601919819,2022,simple
+INT,recall,0.6163164400494437,2022,simple
+OUT,recall,0.789428995966886,2022,simple
+accuracy,recall,0.8410899119419125,2022,simple
+macro avg,recall,0.7330310786689738,2022,simple
+weighted avg,recall,0.8410899119419125,2022,simple
+O,f1-score,0.6219971056439942,2022,simple
+POP,f1-score,0.8916428084526243,2022,simple
+INT,f1-score,0.7060322854715378,2022,simple
+OUT,f1-score,0.8098867595818815,2022,simple
+accuracy,f1-score,0.8410899119419125,2022,simple
+macro avg,f1-score,0.7573897397875095,2022,simple
+weighted avg,f1-score,0.8366549837142069,2022,simple
+O,support,3563.0,2022,simple
+POP,support,35420.0,2022,simple
+INT,support,8090.0,2022,simple
+OUT,support,4711.0,2022,simple
+accuracy,support,0.8410899119419125,2022,simple
+macro avg,support,51784.0,2022,simple
+weighted avg,support,51784.0,2022,simple
+O,precision,0.6493397021635291,2023,simple
+POP,precision,0.8733806710390807,2023,simple
+INT,precision,0.812409112942317,2023,simple
+OUT,precision,0.7822109770338653,2023,simple
+accuracy,precision,0.8416499304804573,2023,simple
+macro avg,precision,0.779335115794698,2023,simple
+weighted avg,precision,0.8401461139255904,2023,simple
+O,recall,0.6486107213022734,2023,simple
+POP,recall,0.9098249576510447,2023,simple
+INT,recall,0.6215080346106304,2023,simple
+OUT,recall,0.8531097431543196,2023,simple
+accuracy,recall,0.8416499304804573,2023,simple
+macro avg,recall,0.7582633641795671,2023,simple
+weighted avg,recall,0.8416499304804573,2023,simple
+O,f1-score,0.6489750070204998,2023,simple
+POP,f1-score,0.8912303990707707,2023,simple
+INT,f1-score,0.7042509979690454,2023,simple
+OUT,f1-score,0.8161234643110976,2023,simple
+accuracy,f1-score,0.8416499304804573,2023,simple
+macro avg,f1-score,0.7651449670928535,2023,simple
+weighted avg,f1-score,0.8385182083083559,2023,simple
+O,support,3563.0,2023,simple
+POP,support,35420.0,2023,simple
+INT,support,8090.0,2023,simple
+OUT,support,4711.0,2023,simple
+accuracy,support,0.8416499304804573,2023,simple
+macro avg,support,51784.0,2023,simple
+weighted avg,support,51784.0,2023,simple
+O,precision,0.6899635640940709,2024,simple
+POP,precision,0.8623095617633992,2024,simple
+INT,precision,0.8532923299565847,2024,simple
+OUT,precision,0.8026156941649899,2024,simple
+accuracy,precision,0.8455700602502704,2024,simple
+macro avg,precision,0.8020452874947612,2024,simple
+weighted avg,precision,0.8436119716724628,2024,simple
+O,recall,0.5846197024978951,2024,simple
+POP,recall,0.9316205533596837,2024,simple
+INT,recall,0.5830655129789865,2024,simple
+OUT,recall,0.8467416684355763,2024,simple
+accuracy,recall,0.8455700602502704,2024,simple
+macro avg,recall,0.7365118593180354,2024,simple
+weighted avg,recall,0.8455700602502704,2024,simple
+O,f1-score,0.6329383166210878,2024,simple
+POP,f1-score,0.8956260941550069,2024,simple
+INT,f1-score,0.6927595829049786,2024,simple
+OUT,f1-score,0.8240884206177048,2024,simple
+accuracy,f1-score,0.8455700602502704,2024,simple
+macro avg,f1-score,0.7613531035746945,2024,simple
+weighted avg,f1-score,0.8393507850363541,2024,simple
+O,support,3563.0,2024,simple
+POP,support,35420.0,2024,simple
+INT,support,8090.0,2024,simple
+OUT,support,4711.0,2024,simple
+accuracy,support,0.8455700602502704,2024,simple
+macro avg,support,51784.0,2024,simple
+weighted avg,support,51784.0,2024,simple
+O,precision,0.5764921106791676,2025,simple
+POP,precision,0.866766061263215,2025,simple
+INT,precision,0.8344625526460355,2025,simple
+OUT,precision,0.7952569169960474,2025,simple
+accuracy,precision,0.8318592615479685,2025,simple
+macro avg,precision,0.7682444103961164,2025,simple
+weighted avg,precision,0.8352416319165719,2025,simple
+O,recall,0.7075498175694639,2025,simple
+POP,recall,0.902738565782044,2025,simple
+INT,recall,0.5632880098887515,2025,simple
+OUT,recall,0.8541710889407769,2025,simple
+accuracy,recall,0.8318592615479685,2025,simple
+macro avg,recall,0.7569368705452592,2025,simple
+weighted avg,recall,0.8318592615479685,2025,simple
+O,f1-score,0.6353326612903226,2025,simple
+POP,f1-score,0.8843866685105795,2025,simple
+INT,f1-score,0.672570290015497,2025,simple
+OUT,f1-score,0.8236618565141746,2025,simple
+accuracy,f1-score,0.8318592615479685,2025,simple
+macro avg,f1-score,0.7539878690826434,2025,simple
+weighted avg,f1-score,0.8286349204983353,2025,simple
+O,support,3563.0,2025,simple
+POP,support,35420.0,2025,simple
+INT,support,8090.0,2025,simple
+OUT,support,4711.0,2025,simple
+accuracy,support,0.8318592615479685,2025,simple
+macro avg,support,51784.0,2025,simple
+weighted avg,support,51784.0,2025,simple
+O,precision,0.629222309505106,2021,dosage
+POP,precision,0.8759990246809894,2021,dosage
+INT,precision,0.8225222258808034,2021,dosage
+OUT,precision,0.8076305220883534,2021,dosage
+accuracy,precision,0.8449521087594624,2021,dosage
+macro avg,precision,0.783843520538813,2021,dosage
+weighted avg,precision,0.8444453255812852,2021,dosage
+O,recall,0.6744316587145663,2021,dosage
+POP,recall,0.9128740824392998,2021,dosage
+INT,recall,0.6175525339925835,2021,dosage
+OUT,recall,0.853746550626194,2021,dosage
+accuracy,recall,0.8449521087594624,2021,dosage
+macro avg,recall,0.7646512064431609,2021,dosage
+weighted avg,recall,0.8449521087594624,2021,dosage
+O,f1-score,0.6510430777567054,2021,dosage
+POP,f1-score,0.8940564903015304,2021,dosage
+INT,f1-score,0.7054504377294549,2021,dosage
+OUT,f1-score,0.830048498606955,2021,dosage
+accuracy,f1-score,0.8449521087594624,2021,dosage
+macro avg,f1-score,0.7701496260986614,2021,dosage
+weighted avg,f1-score,0.8420477346418971,2021,dosage
+O,support,3563.0,2021,dosage
+POP,support,35420.0,2021,dosage
+INT,support,8090.0,2021,dosage
+OUT,support,4711.0,2021,dosage
+accuracy,support,0.8449521087594624,2021,dosage
+macro avg,support,51784.0,2021,dosage
+weighted avg,support,51784.0,2021,dosage
+O,precision,0.6571083610021129,2022,dosage
+POP,precision,0.8638953365688964,2022,dosage
+INT,precision,0.8238486842105263,2022,dosage
+OUT,precision,0.8327751730296942,2022,dosage
+accuracy,precision,0.8432720531438282,2022,dosage
+macro avg,precision,0.7944068887028075,2022,dosage
+weighted avg,precision,0.8405799012615265,2022,dosage
+O,recall,0.6110019646365422,2022,dosage
+POP,recall,0.9246753246753247,2022,dosage
+INT,recall,0.619159456118665,2022,dosage
+OUT,recall,0.7917639566970919,2022,dosage
+accuracy,recall,0.8432720531438282,2022,dosage
+macro avg,recall,0.7366501755319059,2022,dosage
+weighted avg,recall,0.8432720531438282,2022,dosage
+O,f1-score,0.6332169866201279,2022,dosage
+POP,f1-score,0.8932526045928106,2022,dosage
+INT,f1-score,0.7069865913902611,2022,dosage
+OUT,f1-score,0.8117519042437431,2022,dosage
+accuracy,f1-score,0.8432720531438282,2022,dosage
+macro avg,f1-score,0.7613020217117357,2022,dosage
+weighted avg,f1-score,0.8388468276541857,2022,dosage
+O,support,3563.0,2022,dosage
+POP,support,35420.0,2022,dosage
+INT,support,8090.0,2022,dosage
+OUT,support,4711.0,2022,dosage
+accuracy,support,0.8432720531438282,2022,dosage
+macro avg,support,51784.0,2022,dosage
+weighted avg,support,51784.0,2022,dosage
+O,precision,0.6722664308871206,2023,dosage
+POP,precision,0.872616097403297,2023,dosage
+INT,precision,0.8140589569160998,2023,dosage
+OUT,precision,0.784802670331828,2023,dosage
+accuracy,precision,0.8438706936505485,2023,dosage
+macro avg,precision,0.7859360388845864,2023,dosage
+weighted avg,precision,0.8416941488618124,2023,dosage
+O,recall,0.6401908504069604,2023,dosage
+POP,recall,0.9145962732919255,2023,dosage
+INT,recall,0.6212608158220024,2023,dosage
+OUT,recall,0.8484398216939079,2023,dosage
+accuracy,recall,0.8438706936505485,2023,dosage
+macro avg,recall,0.7561219403036991,2023,dosage
+weighted avg,recall,0.8438706936505485,2023,dosage
+O,f1-score,0.6558366877515813,2023,dosage
+POP,f1-score,0.8931131451257168,2023,dosage
+INT,f1-score,0.7047111609646662,2023,dosage
+OUT,f1-score,0.8153814769481845,2023,dosage
+accuracy,f1-score,0.8438706936505485,2023,dosage
+macro avg,f1-score,0.7672606176975372,2023,dosage
+weighted avg,f1-score,0.8402825032619888,2023,dosage
+O,support,3563.0,2023,dosage
+POP,support,35420.0,2023,dosage
+INT,support,8090.0,2023,dosage
+OUT,support,4711.0,2023,dosage
+accuracy,support,0.8438706936505485,2023,dosage
+macro avg,support,51784.0,2023,dosage
+weighted avg,support,51784.0,2023,dosage
+O,precision,0.6996966632962589,2024,dosage
+POP,precision,0.8625421469458167,2024,dosage
+INT,precision,0.8525780682643428,2024,dosage
+OUT,precision,0.7976237623762377,2024,dosage
+accuracy,precision,0.8458211030434111,2024,dosage
+macro avg,precision,0.8031101602206641,2024,dosage
+weighted avg,precision,0.8438750226509807,2024,dosage
+O,recall,0.5826550659556553,2024,dosage
+POP,recall,0.9316770186335404,2024,dosage
+INT,recall,0.5804697156983931,2024,dosage
+OUT,recall,0.8550201655699426,2024,dosage
+accuracy,recall,0.8458211030434111,2024,dosage
+macro avg,recall,0.7374554914643828,2024,dosage
+weighted avg,recall,0.8458211030434111,2024,dosage
+O,f1-score,0.6358346094946401,2024,dosage
+POP,f1-score,0.8957776299895494,2024,dosage
+INT,f1-score,0.6906898073246067,2024,dosage
+OUT,f1-score,0.82532527404979,2024,dosage
+accuracy,f1-score,0.8458211030434111,2024,dosage
+macro avg,f1-score,0.7619068302146464,2024,dosage
+weighted avg,f1-score,0.8394428834227535,2024,dosage
+O,support,3563.0,2024,dosage
+POP,support,35420.0,2024,dosage
+INT,support,8090.0,2024,dosage
+OUT,support,4711.0,2024,dosage
+accuracy,support,0.8458211030434111,2024,dosage
+macro avg,support,51784.0,2024,dosage
+weighted avg,support,51784.0,2024,dosage
+O,precision,0.6011073663938372,2025,dosage
+POP,precision,0.8673287634263507,2025,dosage
+INT,precision,0.8345534407027818,2025,dosage
+OUT,precision,0.7908841940532081,2025,dosage
+accuracy,precision,0.834968329986096,2025,dosage
+macro avg,precision,0.7734684411440444,2025,dosage
+weighted avg,precision,0.8369365657441054,2025,dosage
+O,recall,0.7008139208532136,2025,dosage
+POP,recall,0.9073404856013552,2025,dosage
+INT,recall,0.5636588380716935,2025,dosage
+OUT,recall,0.8582042029293143,2025,dosage
+accuracy,recall,0.834968329986096,2025,dosage
+macro avg,recall,0.7575043618638941,2025,dosage
+weighted avg,recall,0.834968329986096,2025,dosage
+O,f1-score,0.6471426720228068,2025,dosage
+POP,f1-score,0.886883572039628,2025,dosage
+INT,f1-score,0.6728640991589199,2025,dosage
+OUT,f1-score,0.823170110964064,2025,dosage
+accuracy,f1-score,0.834968329986096,2025,dosage
+macro avg,f1-score,0.7575151135463547,2025,dosage
+weighted avg,f1-score,0.8311565428898551,2025,dosage
+O,support,3563.0,2025,dosage
+POP,support,35420.0,2025,dosage
+INT,support,8090.0,2025,dosage
+OUT,support,4711.0,2025,dosage
+accuracy,support,0.834968329986096,2025,dosage
+macro avg,support,51784.0,2025,dosage
+weighted avg,support,51784.0,2025,dosage

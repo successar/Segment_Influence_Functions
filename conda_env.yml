@@ -1,0 +1,20 @@
+name: ner_influence
+dependencies:
+  - python=3.9
+  - pytorch::pytorch=1.10.1
+  - pytorch::cudatoolkit=11.3
+  - pip
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - conda-forge::faiss-cpu
+  - conda-forge::streamlit
+  - pip:
+    - transformers==4.12.5
+    - pytorch-lightning==1.5.0
+    - https://raw.githubusercontent.com/successar/streamlit-texthighlighter/main/dist/TextHighlighter-0.0.1-py3-none-any.whl
+    - https://raw.githubusercontent.com/successar/streamlit-textselector/main/dist/TextSelector-0.0.1-py3-none-any.whl
+    - allennlp==2.7.0
+
+  
